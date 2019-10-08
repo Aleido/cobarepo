@@ -6,8 +6,8 @@
 
 <body>
 	<header>
-		<h3>Pendaftaran Pegawai Baru</h3>
-		<h1>Sorabel Pingit</h1>
+		<h3>Pendaftaran Pegawai Baru anyar gress</h3>
+		<h1>Sorabel Pingit Talalala</h1>
 	</header>
 	
 	<h4>Menu</h4>
