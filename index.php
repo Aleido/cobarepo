@@ -6,7 +6,7 @@
 
 <body>
 	<header>
-		<h3>Pendaftaran Pegawai Baru anyar gress</h3>
+		<h3>Pendaftaran Pegawai Baru anyar lho gaes</h3>
 		<h1>Sorabel Pingit Talalala</h1>
 	</header>
 	
